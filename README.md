@@ -1,2 +1,2 @@
-# vertical farm
-Voor Ingenieursbeleving 3 moeten we een Vertical Farm maken. Op deze pagina vinden jullie onze documentatie. 
+# vertical farm / Sensoren Planten 
+Hier kun je alle code, schema's en documentatie vinden voor de sensoren van de planten. 
