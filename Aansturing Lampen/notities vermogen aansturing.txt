@@ -4,5 +4,5 @@ notities vermogen aansturing en meting
 	
 	stappenplan: 
 		-Papers voor nodige mmol/(m²*s)
-		-boost buck convertor voor aansturing
-		-
+		-boost buck convertor voor aansturing: minimaal 39,15,12 V. 1A max, eerder 500mA waarschijnlijk
+		-implementatie op één pcb; 3 boostbuck convertors, controleerbaar met ESP32
