@@ -1,2 +1,2 @@
 # vertical farm
-vertical farm IB3
+Voor Ingenieursbeleving 3 moeten we een Vertical Farm maken. Op deze pagina vinden jullie onze documentatie. 
