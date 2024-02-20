@@ -1,0 +1,8 @@
+notities vermogen aansturing en meting
+	
+	-vóór het meten van de nodige mmol/(m²*s) => we gaan uit van maximaal (39+15+12)V * 0.5A  = 33W. We willen kunnen meten tussen 3.3W en 33W.
+	
+	stappenplan: 
+		-Papers voor nodige mmol/(m²*s)
+		-boost buck convertor voor aansturing
+		-
