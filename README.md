@@ -1,2 +1,2 @@
-# vertical_farm
+# vertical farm
 vertical farm IB3
